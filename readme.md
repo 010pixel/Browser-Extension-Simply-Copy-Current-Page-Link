@@ -7,4 +7,4 @@
 ### Compatible Browsers
 
 - Google Chrome (https://bit.ly/copypagelink)
-- Mozilla Firefox
+- Mozilla Firefox (https://bit.ly/copypagelink-fr)
