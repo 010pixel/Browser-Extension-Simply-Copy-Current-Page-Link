@@ -1,0 +1,12 @@
+Copy current page link is simplest extension to do only one job which is as the name says, copy link of the current page.
+
+FEATURES:
+- Simply click and copy current page link
+
+TROUBLESHOOTING:
+- In case the extension doesn't work, try again after refreshing the page
+
+Support this extension: https://donorbox.org/to-sustain-building-google-chrome-extensions
+
+v.1.0.0: (2019/09/29)
+- Initial upload
