@@ -6,5 +6,5 @@
 
 ### Compatible Browsers
 
-- Google Chrome
+- Google Chrome (https://chrome.google.com/webstore/detail/mgafjmffjciapglpodaacoejmkchelff/)
 - Mozilla Firefox
