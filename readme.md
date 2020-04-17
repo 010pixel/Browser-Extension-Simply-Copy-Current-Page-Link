@@ -1,5 +1,7 @@
 # Browser Extension: Simply Copy Current Page Link
 
+![](https://github.com/010pixel/Browser-Extension-Simply-Copy-Current-Page-Link/blob/master/banners/small%20tile.png?raw=true)
+
 ### Features
 
 - Simply click and copy current page link
