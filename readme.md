@@ -6,5 +6,5 @@
 
 ### Compatible Browsers
 
-- Google Chrome (https://chrome.google.com/webstore/detail/simply-copy-current-page/mgafjmffjciapglpodaacoejmkchelff)
+- Google Chrome (https://bit.ly/copypagelink)
 - Mozilla Firefox
