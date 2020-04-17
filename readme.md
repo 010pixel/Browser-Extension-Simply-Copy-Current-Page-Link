@@ -1,4 +1,4 @@
-# Copy current page link
+# Simply Copy Current Page Link
 
 ### Features
 
