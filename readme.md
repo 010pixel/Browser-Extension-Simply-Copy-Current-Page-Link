@@ -4,7 +4,7 @@
 
 - Simply click and copy current page link
 
-### Compatible Browsers
+### Download
 
 - Google Chrome (https://bit.ly/copypagelink)
 - Mozilla Firefox (https://bit.ly/copypagelink-fr)
