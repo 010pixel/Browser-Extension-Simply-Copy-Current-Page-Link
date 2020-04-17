@@ -6,5 +6,5 @@
 
 ### Compatible Browsers
 
-- Google Chrome ([Download](https://bit.ly/copypagelink){:target="_blank"})
+- Google Chrome (https://bit.ly/copypagelink)
 - Mozilla Firefox
