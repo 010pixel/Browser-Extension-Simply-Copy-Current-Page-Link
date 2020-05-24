@@ -8,6 +8,9 @@ FEATURES:
 TROUBLESHOOTING:
 - In case the extension doesn't work, try again after refreshing the page
 
+User Data Privacy:
+This extension is not taking any private information from any user.
+
 Support this extension: https://donorbox.org/to-sustain-building-google-chrome-extensions
 
 v.1.0.0: (2020/04/17)
